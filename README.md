@@ -18,5 +18,11 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-![demo](./Challenge4/images/04-web-apis-homework-demo.gif)
-![start_quiz](./Challenge4/images/pic1.png)
+//**Mock-Up**//
+![demo](https://github.com/ElyCano/Web_APIs_CodeQuiz_EC/blob/main/images/fina-score-and-enter-initials.png)
+//**Start-Quiz**//
+![start_quiz](https://github.com/ElyCano/Web_APIs_CodeQuiz_EC/blob/main/images/pic1.png)
+//**Finished-Quiz**//
+![finish_quiz_enter_initials](https://github.com/ElyCano/Web_APIs_CodeQuiz_EC/blob/main/images/fina-score-and-enter-initials.png)
+//**Highscores**//
+![show_highscores](https://github.com/ElyCano/Web_APIs_CodeQuiz_EC/blob/main/images/show-highscores.png)
